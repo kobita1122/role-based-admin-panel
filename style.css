@@ -1,0 +1,32 @@
+body {
+  font-family: sans-serif;
+  background: #020617;
+  color: #e5e7eb;
+  padding: 40px;
+}
+
+#login, #app {
+  max-width: 500px;
+  margin: auto;
+  background: #0f172a;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+input, select {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+}
+
+button {
+  margin: 5px;
+  padding: 10px;
+  background: #22c55e;
+  border: none;
+  cursor: pointer;
+}
+
+.page {
+  margin-top: 20px;
+}
